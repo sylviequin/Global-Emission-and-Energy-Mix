@@ -1,0 +1,206 @@
+{
+  "chart": {
+    "title": "Per capita electricity generation by source",
+    "subtitle": "Measured in [kilowatt-hours](#dod:watt-hours). \"Other renewables\" include geothermal, tidal, and wave generation.",
+    "citation": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/per-capita-electricity-source-stacked?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "Canada",
+      "Sweden",
+      "United States",
+      "United Kingdom",
+      "France",
+      "Japan",
+      "Germany",
+      "China",
+      "South Africa",
+      "Brazil",
+      "India"
+    ]
+  },
+  "columns": {
+    "Coal electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)": {
+      "titleShort": "Electricity generation from coal per person",
+      "titleLong": "Electricity generation from coal per person",
+      "descriptionShort": "Measured in [kilowatt-hours](#dod:watt-hours) per person.",
+      "descriptionKey": [
+        "Per capita figures are calculated by dividing total values by the population of the country or region. Population data is constructed by Our World in Data, based on [various sources](https://ourworldindata.org/grapher/population)."
+      ],
+      "descriptionProcessing": "- While the Energy Institute (EI) provides a longer time series (dating back to 1965) than Ember (dating back only to 1990 for European countries and 2000 for other countries), EI does not cover all countries or all sources of electricity (for example, generation from bioenergy is missing). Therefore, when data from Ember is available for a given country and year, we use it as the primary data source. Where Ember data is unavailable, we supplement it with data from EI.",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077794,
+      "shortName": "per_capita_coal_generation__kwh_chart_per_capita_electricity_source_stacked",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data. “Electricity generation from coal per person” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data”; Energy Institute, “Statistical Review of World Energy”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077794.metadata.json"
+    },
+    "Gas electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)": {
+      "titleShort": "Electricity generation from gas per person",
+      "titleLong": "Electricity generation from gas per person",
+      "descriptionShort": "Measured in [kilowatt-hours](#dod:watt-hours) per person.",
+      "descriptionKey": [
+        "Per capita figures are calculated by dividing total values by the population of the country or region. Population data is constructed by Our World in Data, based on [various sources](https://ourworldindata.org/grapher/population)."
+      ],
+      "descriptionProcessing": "- While the Energy Institute (EI) provides a longer time series (dating back to 1965) than Ember (dating back only to 1990 for European countries and 2000 for other countries), EI does not cover all countries or all sources of electricity (for example, generation from bioenergy is missing). Therefore, when data from Ember is available for a given country and year, we use it as the primary data source. Where Ember data is unavailable, we supplement it with data from EI.",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077795,
+      "shortName": "per_capita_gas_generation__kwh_chart_per_capita_electricity_source_stacked",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data. “Electricity generation from gas per person” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data”; Energy Institute, “Statistical Review of World Energy”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077795.metadata.json"
+    },
+    "Oil electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)": {
+      "titleShort": "Electricity generation from oil per person",
+      "titleLong": "Electricity generation from oil per person",
+      "descriptionShort": "Measured in [kilowatt-hours](#dod:watt-hours) per person.",
+      "descriptionKey": [
+        "Per capita figures are calculated by dividing total values by the population of the country or region. Population data is constructed by Our World in Data, based on [various sources](https://ourworldindata.org/grapher/population)."
+      ],
+      "descriptionProcessing": "- While the Energy Institute (EI) provides a longer time series (dating back to 1965) than Ember (dating back only to 1990 for European countries and 2000 for other countries), EI does not cover all countries or all sources of electricity (for example, generation from bioenergy is missing). Therefore, when data from Ember is available for a given country and year, we use it as the primary data source. Where Ember data is unavailable, we supplement it with data from EI.",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077796,
+      "shortName": "per_capita_oil_generation__kwh_chart_per_capita_electricity_source_stacked",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data. “Electricity generation from oil per person” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data”; Energy Institute, “Statistical Review of World Energy”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077796.metadata.json"
+    },
+    "Nuclear electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)": {
+      "titleShort": "Electricity generation from nuclear power per person",
+      "titleLong": "Electricity generation from nuclear power per person",
+      "descriptionShort": "Measured in [kilowatt-hours](#dod:watt-hours) per person.",
+      "descriptionKey": [
+        "Per capita figures are calculated by dividing total values by the population of the country or region. Population data is constructed by Our World in Data, based on [various sources](https://ourworldindata.org/grapher/population)."
+      ],
+      "descriptionProcessing": "- While the Energy Institute (EI) provides a longer time series (dating back to 1965) than Ember (dating back only to 1990 for European countries and 2000 for other countries), EI does not cover all countries or all sources of electricity (for example, generation from bioenergy is missing). Therefore, when data from Ember is available for a given country and year, we use it as the primary data source. Where Ember data is unavailable, we supplement it with data from EI.",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077797,
+      "shortName": "per_capita_nuclear_generation__kwh_chart_per_capita_electricity_source_stacked",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data. “Electricity generation from nuclear power per person” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data”; Energy Institute, “Statistical Review of World Energy”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077797.metadata.json"
+    },
+    "Hydro electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)": {
+      "titleShort": "Electricity generation from hydropower per person",
+      "titleLong": "Electricity generation from hydropower per person",
+      "descriptionShort": "Measured in [kilowatt-hours](#dod:watt-hours) per person.",
+      "descriptionKey": [
+        "Per capita figures are calculated by dividing total values by the population of the country or region. Population data is constructed by Our World in Data, based on [various sources](https://ourworldindata.org/grapher/population)."
+      ],
+      "descriptionProcessing": "- While the Energy Institute (EI) provides a longer time series (dating back to 1965) than Ember (dating back only to 1990 for European countries and 2000 for other countries), EI does not cover all countries or all sources of electricity (for example, generation from bioenergy is missing). Therefore, when data from Ember is available for a given country and year, we use it as the primary data source. Where Ember data is unavailable, we supplement it with data from EI.",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077803,
+      "shortName": "per_capita_hydro_generation__kwh_chart_per_capita_electricity_source_stacked",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data. “Electricity generation from hydropower per person” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data”; Energy Institute, “Statistical Review of World Energy”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077803.metadata.json"
+    },
+    "Wind electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)": {
+      "titleShort": "Electricity generation from wind power per person",
+      "titleLong": "Electricity generation from wind power per person",
+      "descriptionShort": "Measured in [kilowatt-hours](#dod:watt-hours) per person.",
+      "descriptionKey": [
+        "Per capita figures are calculated by dividing total values by the population of the country or region. Population data is constructed by Our World in Data, based on [various sources](https://ourworldindata.org/grapher/population)."
+      ],
+      "descriptionProcessing": "- While the Energy Institute (EI) provides a longer time series (dating back to 1965) than Ember (dating back only to 1990 for European countries and 2000 for other countries), EI does not cover all countries or all sources of electricity (for example, generation from bioenergy is missing). Therefore, when data from Ember is available for a given country and year, we use it as the primary data source. Where Ember data is unavailable, we supplement it with data from EI.",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077804,
+      "shortName": "per_capita_wind_generation__kwh_chart_per_capita_electricity_source_stacked",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data. “Electricity generation from wind power per person” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data”; Energy Institute, “Statistical Review of World Energy”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077804.metadata.json"
+    },
+    "Solar electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)": {
+      "titleShort": "Electricity generation from solar power per person",
+      "titleLong": "Electricity generation from solar power per person",
+      "descriptionShort": "Measured in [kilowatt-hours](#dod:watt-hours) per person.",
+      "descriptionKey": [
+        "Per capita figures are calculated by dividing total values by the population of the country or region. Population data is constructed by Our World in Data, based on [various sources](https://ourworldindata.org/grapher/population)."
+      ],
+      "descriptionProcessing": "- While the Energy Institute (EI) provides a longer time series (dating back to 1965) than Ember (dating back only to 1990 for European countries and 2000 for other countries), EI does not cover all countries or all sources of electricity (for example, generation from bioenergy is missing). Therefore, when data from Ember is available for a given country and year, we use it as the primary data source. Where Ember data is unavailable, we supplement it with data from EI.",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077805,
+      "shortName": "per_capita_solar_generation__kwh_chart_per_capita_electricity_source_stacked",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025); Energy Institute - Statistical Review of World Energy (2025); Population based on various sources (2024) – with major processing by Our World in Data. “Electricity generation from solar power per person” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data”; Energy Institute, “Statistical Review of World Energy”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077805.metadata.json"
+    },
+    "Bioenergy electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)": {
+      "titleShort": "Electricity generation from bioenergy per person",
+      "titleLong": "Electricity generation from bioenergy per person",
+      "descriptionShort": "Measured in [kilowatt-hours](#dod:watt-hours) per person.",
+      "descriptionKey": [
+        "Per capita figures are calculated by dividing total values by the population of the country or region. Population data is constructed by Our World in Data, based on [various sources](https://ourworldindata.org/grapher/population)."
+      ],
+      "descriptionProcessing": "",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077806,
+      "shortName": "per_capita_bioenergy_generation__kwh_chart_per_capita_electricity_source_stacked",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Ember (2025); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025); Population based on various sources (2024) – with major processing by Our World in Data. “Electricity generation from bioenergy per person” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077806.metadata.json"
+    },
+    "Other renewable electricity excluding bioenergy per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)": {
+      "titleShort": "Electricity generation from other renewables, excluding bioenergy, per person",
+      "titleLong": "Electricity generation from other renewables, excluding bioenergy, per person",
+      "descriptionShort": "Measured in [kilowatt-hours](#dod:watt-hours) per person.",
+      "descriptionKey": [
+        "Per capita figures are calculated by dividing total values by the population of the country or region. Population data is constructed by Our World in Data, based on [various sources](https://ourworldindata.org/grapher/population)."
+      ],
+      "descriptionProcessing": "",
+      "shortUnit": "kWh",
+      "unit": "kilowatt-hours",
+      "timespan": "1985-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077807,
+      "shortName": "per_capita_other_renewables_excluding_bioenergy_generation__kwh_chart_per_capita_electricity_source_stacked",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Ember (2025); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025); Population based on various sources (2024) – with major processing by Our World in Data. “Electricity generation from other renewables, excluding bioenergy, per person” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077807.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-10-11",
+  "activeFilters": {}
+}

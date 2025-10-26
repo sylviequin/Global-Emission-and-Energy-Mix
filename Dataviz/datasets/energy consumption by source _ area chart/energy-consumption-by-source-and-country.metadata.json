@@ -1,0 +1,171 @@
+{
+  "chart": {
+    "title": "Energy consumption by source",
+    "subtitle": "Measured in terms of [primary energy](#dod:primaryenergy) using the [substitution method](#dod:substitutionmethod).",
+    "note": "\"Other renewables\" include geothermal, biomass, and waste energy.",
+    "citation": "Energy Institute - Statistical Review of World Energy (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/energy-consumption-by-source-and-country?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Other renewables (including geothermal and biomass) - TWh": {
+      "titleShort": "Other renewables (including geothermal and biomass)",
+      "titleLong": "Other renewables (including geothermal and biomass)",
+      "descriptionShort": "Input-equivalent energy, in terawatt-hours, is based on gross generation and does not account for cross-border electricity supply.",
+      "descriptionProcessing": "* Primary energy consumption is expressed in input-equivalents (using the [substitution method](#dod:substitutionmethod)). For \"other renewables\", we divide gross electricity generation by a factor of 0.32, which reflects an assumed efficiency of 32% for typical biomass power plants — the dominant source of electricity in this category globally. This approach follows the methodology used by the Statistical Review of World Energy up to the 2024 release. In 2025, the Statistical Review switched to the Physical Energy Content method to calculate Total Energy Supply. For now, we continue to use the substitution method to maintain consistency across our articles and charts.",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077639,
+      "shortName": "other_renewables_consumption_equivalent_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Other renewables (including geothermal and biomass)” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077639.metadata.json"
+    },
+    "Biofuels consumption - TWh": {
+      "titleShort": "Biofuels consumption",
+      "titleLong": "Biofuels consumption",
+      "descriptionShort": "Includes biogasoline (such as ethanol) and biodiesel. Volumes have been adjusted for energy content.",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077522,
+      "shortName": "biofuels_consumption_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Biofuels consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077522.metadata.json"
+    },
+    "Solar consumption - TWh": {
+      "titleShort": "Solar consumption",
+      "titleLong": "Solar consumption",
+      "descriptionShort": "Input-equivalent energy, in terawatt-hours, is based on gross generation and does not account for cross-border electricity supply.",
+      "descriptionProcessing": "* Primary energy consumption is expressed in input-equivalents (using the [substitution method](#dod:substitutionmethod)). For nuclear, hydro, solar, and wind, we divide gross electricity generation by a time-dependent thermal efficiency factor (around 41% in recent years). This represents the average efficiency of fossil fuel power plants globally and reflects the amount of fuel that would have been required to produce the same electricity in such plants. This approach follows the methodology used by the Statistical Review of World Energy up to the 2024 release. In 2025, the Statistical Review switched to the Physical Energy Content method to calculate Total Energy Supply. For now, we continue to use the substitution method to maintain consistency across our articles and charts.",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077656,
+      "shortName": "solar_consumption_equivalent_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Solar consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077656.metadata.json"
+    },
+    "Wind consumption - TWh": {
+      "titleShort": "Wind consumption",
+      "titleLong": "Wind consumption",
+      "descriptionShort": "Input-equivalent energy, in terawatt-hours, is based on gross generation and does not account for cross-border electricity supply.",
+      "descriptionProcessing": "* Primary energy consumption is expressed in input-equivalents (using the [substitution method](#dod:substitutionmethod)). For nuclear, hydro, solar, and wind, we divide gross electricity generation by a time-dependent thermal efficiency factor (around 41% in recent years). This represents the average efficiency of fossil fuel power plants globally and reflects the amount of fuel that would have been required to produce the same electricity in such plants. This approach follows the methodology used by the Statistical Review of World Energy up to the 2024 release. In 2025, the Statistical Review switched to the Physical Energy Content method to calculate Total Energy Supply. For now, we continue to use the substitution method to maintain consistency across our articles and charts.",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077661,
+      "shortName": "wind_consumption_equivalent_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Wind consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077661.metadata.json"
+    },
+    "Hydro consumption - TWh": {
+      "titleShort": "Hydropower consumption",
+      "titleLong": "Hydropower consumption",
+      "descriptionShort": "Input-equivalent energy is based on gross generation and does not account for cross-border electricity supply.",
+      "descriptionProcessing": "* Primary energy consumption is expressed in input-equivalents (using the [substitution method](#dod:substitutionmethod)). For nuclear, hydro, solar, and wind, we divide gross electricity generation by a time-dependent thermal efficiency factor (around 41% in recent years). This represents the average efficiency of fossil fuel power plants globally and reflects the amount of fuel that would have been required to produce the same electricity in such plants. This approach follows the methodology used by the Statistical Review of World Energy up to the 2024 release. In 2025, the Statistical Review switched to the Physical Energy Content method to calculate Total Energy Supply. For now, we continue to use the substitution method to maintain consistency across our articles and charts.",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077596,
+      "shortName": "hydro_consumption_equivalent_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Hydropower consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077596.metadata.json"
+    },
+    "Nuclear consumption - TWh": {
+      "titleShort": "Nuclear consumption",
+      "titleLong": "Nuclear consumption",
+      "descriptionShort": "Input-equivalent energy is based on gross generation and does not account for cross-border electricity supply.",
+      "descriptionProcessing": "* Primary energy consumption is expressed in input-equivalents (using the [substitution method](#dod:substitutionmethod)). For nuclear, hydro, solar, and wind, we divide gross electricity generation by a time-dependent thermal efficiency factor (around 41% in recent years). This represents the average efficiency of fossil fuel power plants globally and reflects the amount of fuel that would have been required to produce the same electricity in such plants. This approach follows the methodology used by the Statistical Review of World Energy up to the 2024 release. In 2025, the Statistical Review switched to the Physical Energy Content method to calculate Total Energy Supply. For now, we continue to use the substitution method to maintain consistency across our articles and charts.",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077605,
+      "shortName": "nuclear_consumption_equivalent_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Nuclear consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077605.metadata.json"
+    },
+    "Gas consumption - TWh": {
+      "titleShort": "Gas consumption",
+      "titleLong": "Gas consumption",
+      "descriptionKey": [
+        "Excludes natural gas converted to liquid fuels but includes derivatives of coal as well as natural gas consumed in Gas-to-Liquids transformation. The difference between the world consumption figures and the world production statistics is due to variations in stocks at storage facilities and liquefaction plants, together with unavoidable disparities in the definition, measurement or conversion of gas supply and demand data."
+      ],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077570,
+      "shortName": "gas_consumption_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Gas consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077570.metadata.json"
+    },
+    "Coal consumption - TWh": {
+      "titleShort": "Coal consumption",
+      "titleLong": "Coal consumption",
+      "descriptionKey": [
+        "Includes commercial solid fuels only, i.e. bituminous coal and anthracite (hard coal), and lignite and brown (sub-bituminous) coal, and other commercial solid fuels. Excludes coal converted to liquid or gaseous fuels, but includes coal consumed in transformation processes. Differences between the consumption figures and the world production statistics are accounted for by stock changes, and unavoidable disparities in the definition, measurement or conversion of coal supply and demand data."
+      ],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077523,
+      "shortName": "coal_consumption_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Coal consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077523.metadata.json"
+    },
+    "Oil consumption - TWh": {
+      "titleShort": "Oil consumption",
+      "titleLong": "Oil consumption",
+      "descriptionKey": [
+        "Includes inland demand plus international aviation and marine bunkers and refinery fuel and loss. Consumption of biogasoline (such as ethanol) and biodiesel are excluded while derivatives of coal and natural gas are included. Differences between the world consumption figures and world production statistics are accounted for by stock changes, consumption of non-petroleum additives and substitute fuels and unavoidable disparities in the definition, measurement or conversion of oil supply and demand data."
+      ],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077624,
+      "shortName": "oil_consumption_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Oil consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077624.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-10-11",
+  "activeFilters": {}
+}
