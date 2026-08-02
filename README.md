@@ -11,7 +11,7 @@ Global Emissions & Energy Mix makes 30+ years of emissions and energy data explo
 
 Key questions this dashboard helps answer:
 
-- Which countries are the biggest emitters — and is that changing?
+- Which countries are the biggest emitters and is that changing?
 - How much of our energy actually comes from clean sources?
 - Why is decarbonising electricity alone not enough to reach net zero?
 - Which sectors contribute the most CO₂, and where is the biggest opportunity for change?
@@ -62,10 +62,10 @@ Data covers 190+ countries across the period 1990–2023, including annual CO₂
 ### Dashboard Philosophy
 This purpose was comprehensively built with one goal of mind: **_making CLIMATE DATA feel human_** The data is here, the story alreade put it on, WHAT WE DO NEXT IS UP TO US 
 
-> Numbers like "37.4 billion tonnes of CO₂" are hard to grasp in isolation. By letting users filter by country, year, continent, and power source — and watching every chart respond in real time — the data becomes a conversation rather than a report.
+> Numbers like "37.4 billion tonnes of CO₂" are hard to grasp in isolation. By letting users filter by country, year, continent, and power source and watching every chart respond in real time -> the data becomes a conversation rather than a report.
 The animated electricity timeline, cross-linked map, and sector breakdown are all designed to invite exploration, not just consumption.
 
-_"Whether decarbonising electricity toward low-carbon sources is the only way toward a net-zero carbon footprint — this dashboard is built to help you find your own answer."_
+_"Whether decarbonising electricity toward low-carbon sources is the only way toward a net-zero carbon footprint, this dashboard is built to help you find your own answer."_
 
 ## Author
 Quynh Huong (Sylvie) Nguyen
