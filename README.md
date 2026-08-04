@@ -2,8 +2,6 @@
 
 **Is the world actually decarbonizing or just decarbonizing the easiest 20% of the problem?**
 
-Built with Python · Plotly Dash · Responsive Design
-
 ### Overview
 `Climate change is one of the most pressing challenges of our time, yet the data behind it can feel overwhelming or inaccessible. This dashboard was built to change that`
 
@@ -84,6 +82,9 @@ Macquarie Business School
 
 ## License
 This project is open for educational and non-commercial use. Please credit the author and original data sources if you adapt or share this work.
+
+Built with Python · Plotly Dash · Responsive Design
+
 > Further information could be found on **"GlobalEmission_PitchDeck.pptx"**
 <div align="center">
 Built with 💙 for climate awareness · Data-driven · Human-centred
