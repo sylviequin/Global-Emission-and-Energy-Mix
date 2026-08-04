@@ -73,11 +73,12 @@ _"Whether decarbonising electricity toward low-carbon sources is the only way to
 ### Limitations
 Figures rely on publicly reported national datasets that vary in reporting standards and update lag across countries. Multi-year totals (e.g. cumulative CO₂ by country) should not be read as current annual emission rates. Data is collected from public hubs before verifying its reliabilty and transparency. 
 
-## Author
 ### Author
 
 **Quynh Huong Nguyen (Sylvie)**
+
 Macquarie Business School
+
 [LinkedIn](https://www.linkedin.com/in/sylvia-quin/) · 📧 [Email](huongquynh04.vn@gmail.com)
 
 
