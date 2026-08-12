@@ -2,7 +2,7 @@
 
 **Is the world actually decarbonizing or just decarbonizing the easiest 20% of the problem?**
 
-<img src="Dataviz/image/cover.jpg" style="max-width:100%; height:500;">
+<img src="Dataviz/image/cover2.jpg" style="max-width:100%; height:500;">
 
 ### Overview
 
