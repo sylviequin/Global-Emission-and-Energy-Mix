@@ -70,7 +70,7 @@ Data covers 190+ countries across the period 1990–2023, including annual CO₂
 
 ### Dashboard Preview
 
-![Dashboard by Plotly](image.png)
+![Dashboard by Plotly](Dataviz/image/image.png)
 
 > The dashboard is fully responsive, accessible on desktop, tablet, and mobile. Scan the QR code at a presentation to open it instantly on your phone.
 
